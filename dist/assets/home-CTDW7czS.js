@@ -1,0 +1,1 @@
+import{r as o,C as s,j as e}from"./index-TiBEPfxa.js";function a(){let{User:r}=o.useContext(s),t=r[0].role;return console.log(t),e.jsx(e.Fragment,{children:e.jsx("h1",{className:"text-2xl",children:`Home page for ${t} user`})})}export{a as default};
